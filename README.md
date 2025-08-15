@@ -112,7 +112,7 @@ src/
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:3000`
+   Navigate to `http://localhost:3100`
 
 ### Demo Accounts
 The application includes demo accounts for testing different tenants:
